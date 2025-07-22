@@ -1,5 +1,5 @@
 
-import EmailTemplate from "./EmailTemplate";
+import EmailTemplate from "./components/EmailTemplate";
 
 function App() {
   return(
