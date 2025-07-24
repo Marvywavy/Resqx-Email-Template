@@ -4,7 +4,7 @@ import { PhoneIcon, EnvelopeIcon } from "@heroicons/react/24/outline";
 function EmailTemplate () {
     return(
         <>
-            <div className="flex my-7 flex-col  w-[430px] h-[auto] mx-auto shadow-sm colo 
+            <div className="flex  flex-col  w-[430px] h-[auto] mx-auto shadow-sm colo 
                 font-general text-[14px] leading-[20px] font-normal text-[#777777] ">
                 <div className="bg-[#FF8500] w-[430px] h-[41px]"></div>
                 <img src={logo} alt="Logo" className="w-[150px] h-auto" />                

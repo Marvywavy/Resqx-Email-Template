@@ -7,5 +7,5 @@ export default defineConfig({
       react(), 
       tailwindcss()
   ],
-  base: '/Resqx-Email-Template/', // ✅ VERY IMPORTANT
+  base: "/Resqx-Email-Template", // ✅ VERY IMPORTANT
 })
